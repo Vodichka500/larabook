@@ -37,3 +37,12 @@ php artisan db:seed # populate the database with sample data
 ```
 
 The application should now be available at: http://localhost:8000/
+
+4. Login Credentials
+   
+| Username                                                                    | Password | Role |
+| --------------------------------------------------------------------------- | -------- | ---- |
+| [marek.kowalski@example.com](mailto:marek.kowalski@example.com)             | password | user |
+| [anna.nowak@example.com](mailto:anna.nowak@example.com)                     | password | user |
+| [krzysztof.wisniewski@example.com](mailto:krzysztof.wisniewski@example.com) | password | user |
+| [ewa.zielinska@example.com](mailto:ewa.zielinska@example.com)               | password | user |
